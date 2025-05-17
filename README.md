@@ -46,14 +46,6 @@ In conclusion, this analysis of the coffee shop sales data has revealed several 
 - The near-equal popularity of "Regular" and "Large" sizes could inform inventory and purchasing decisions. Addressing the significant portion of products with unidentified sizes might improve future size-based analysis.
 - Operational adjustments, such as reviewing opening/closing hours for the "Astoria" and "Lower Manhattan" stores, could potentially optimize resource allocation and profitability.
 
-## Further Analysis (Optional)
-
-You could consider expanding this analysis with:
-
-- **Customer Segmentation:** If you have customer IDs or loyalty program data, you could segment customers based on their purchasing behavior.
-- **Basket Analysis:** Explore which products are frequently bought together.
-- **Forecasting:** Use time series models to predict future sales.
-
 ## Libraries Used
 
 - pandas
