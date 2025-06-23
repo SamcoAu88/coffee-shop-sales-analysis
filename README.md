@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis
+# ☕ 🫖 🧋 Coffee Shop Sales Analysis
 
 ![Coffee Shop ERD](images/coffee_shop.jpg)
 
