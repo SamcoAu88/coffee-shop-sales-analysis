@@ -1,5 +1,7 @@
 # Coffee Shop Sales Analysis
 
+![Coffee Shop ERD](images/coffee_shop.jpeg)
+
 This project analyzes a dataset of coffee shop transactions spanning 181 days. The dataset includes information on individual transactions, product details (category, type, size), store locations, and timestamps. The goal of this analysis is to identify key sales trends, understand product performance, evaluate store performance, and uncover actionable insights to inform business decisions.
 
 ## Summary and Key Findings
